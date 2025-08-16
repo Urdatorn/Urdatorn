@@ -1,5 +1,12 @@
 # Urdatorn
 
+---
+
+>”They’re not poets but mere mechanics. Look at these collections of so-called verse. Three poems and sixty pages of operating instructions.”
+>- J.G. Ballard, *Vermillion Sands*
+
+---
+
 **Digital Philologist | Machine Learning for Ancient Greek | ORCID: [0009-0003-3731-4038](https://orcid.org/0009-0003-3731-4038)**
 
 I explore how NLP, programming, and machine learning can advance our understanding of ancient languages, with a focus on Ancient Greek. My work centers on digital philology and digital humanities, leveraging Python and BERT-based models to study prosody, verse, and the relationship between language and music. I am also deeply interested in the history and philosophy of empirical science.
