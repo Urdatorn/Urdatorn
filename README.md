@@ -6,7 +6,7 @@
 
 ---
 
-[![ORCID](https://github.com/Urdatorn/responsio-accentuum/media/orcid-badge.svg)](https://orcid.org/0009-0003-3731-4038)
+[![ORCID](orcid-badge.svg)](https://orcid.org/0009-0003-3731-4038)
 
 I'm a PhD student (= geek) applying NLP, programming, statistics and machine learning to Ancient Greek. My main interest is prosody, verse, and the relationship between language and music, but I often find myself branching off into stylometry, semantics and beyond. Check out my [HuggingFace profile](https://huggingface.co/Urdatorn) for more on my ML work.
 
