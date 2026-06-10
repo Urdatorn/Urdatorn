@@ -1,4 +1,4 @@
-# Urdatorn
+# Albin Thörn Cleland
 
 ---
 
@@ -9,31 +9,31 @@
 
 **Digital Philologist | Machine Learning for Ancient Greek | ORCID: [0009-0003-3731-4038](https://orcid.org/0009-0003-3731-4038)**
 
-I explore how NLP, programming, and machine learning can advance our understanding of ancient languages, with a focus on Ancient Greek. My work centers on digital philology and digital humanities, leveraging Python and BERT-based models to study prosody, verse, and the relationship between language and music. I am also deeply interested in the history and philosophy of science.
+I'm a PhD student (= geek) applying NLP, programming, statistics and machine learning to Ancient Greek. My main interest is prosody, verse, and the relationship between language and music, but I often find myself branching off into stylometry, semantics and beyond. Check out my [HuggingFace profile](https://huggingface.co/Urdatorn) for more on my ML work.
 
 ---
 
 ### Featured Work
 
-- **Recent Hugging Face Model:**  
-  [SyllaMoBert-grc-macronizer-v1](https://huggingface.co/Ericu950/SyllaMoBert-grc-macronizer-v1)  
-  *A BERT-based model for Ancient Greek syllabification and macronization.*
+- [**Macronizing Ancient Greek**](https://huggingface.co/spaces/Urdatorn/macronizer)
+  - *Two BERT-based models for Ancient Greek syllabification and macronization.*
 
-- **Latest GitHub Project:**  
-  [aristophanis-cantica](https://github.com/Urdatorn/aristophanis-cantica)  
-  *Digital analysis of Aristophanes’ cantica.*
+- [**Accent and melody in Aristophanes**](https://github.com/Urdatorn/aristophanis-cantica)  
+  - *Digital analysis of Aristophanes’ choral songs.*
 
+- [**Text-processing tools for Ancient Greek**](https://github.com/Urdatorn/grc-utils)
+  - *Python functions for Ancient Greek not found elsewhere, such as reliable upper/lower case and handling of diacritics indicating vowel length.*
 ---
 
 ### Skills & Tools
 
-- **Programming:** Python
-- **Machine Learning:** BERT, NLP, Transformers
-- **Fields:** Digital Philology, Digital Humanities, Ancient Greek
+- **Programming:** Python, pytorch, regex, XPath, Stan
+- **Machine Learning:** semantic embeddings, classification, sentiment analysis
+- **Academic background**: Ancient Greek philology (MA), theoretical philosophy (MA), musicology (BA), theoretical physics and mathematics (half a BA), a bit of Latin
 
-### Languages
+### Modern Languages
 
-Swedish, English, French, Thai, Ancient Greek, Spanish
+From more to less proficient: Swedish, English, Thai, French, Spanish, Italian, German
 
 ---
 
