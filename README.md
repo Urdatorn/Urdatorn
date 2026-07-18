@@ -28,12 +28,8 @@ I'm a PhD student applying NLP, programming, statistics and machine learning to 
 
 - **Programming:** Python, pytorch, regex, XPath, Stan
 - **Machine Learning:** semantic embeddings, classification, sentiment analysis
-- **Academic background**: Ancient Greek philology (MA), theoretical philosophy (MA), musicology (BA), theoretical physics and mathematics (half a BA), a bit of Latin
+- **5,5 Academic Degrees**: Ancient Greek philology (MA & BA), philosophy of science (MA & BA), musicology (BA), theoretical physics and mathematics (first two years of the BA)
 
 ### Modern Languages
 
-From more to less proficient: Swedish, English, Thai, French, Spanish, Italian, German
-
----
-
-Find my publications and research at [ORCID](https://orcid.org/0009-0003-3731-4038).
+From more to less proficient: Swedish (native), English, French, Thai/Lao, Spanish, Italian, German
