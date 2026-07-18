@@ -1,4 +1,4 @@
-# Philologizing Hacker
+# Zukunftsphilologie
 ---
 
 >”They’re not poets but mere mechanics. Look at these collections of so-called verse. Three poems and sixty pages of operating instructions.”
