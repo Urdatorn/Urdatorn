@@ -10,7 +10,7 @@
 
 [![ORCID](orcid-badge.svg)](https://orcid.org/0009-0003-3731-4038)
 
-I'm a PhD student applying NLP, programming, statistics and machine learning to Ancient Greek. I'm currently fooling around with using Bayesian data analysis for author attribution and topic modelling of fragmentary papyri and imputations for them. ML models and datasets are open-sourced on my [HuggingFace profile](https://huggingface.co/Urdatorn).
+I'm a PhD student applying algorithms, statistics and machine learning to Ancient Greek. I'm currently fooling around with using Bayesian data analysis for author attribution and topic modelling of fragmentary papyri and imputations for them. ML models and datasets are continuously open-sourced on my [HuggingFace profile](https://huggingface.co/Urdatorn). Technical papers are hosted at [arXiv](https://arxiv.org/a/thorncleland_a_1.html).
 
 ---
 
