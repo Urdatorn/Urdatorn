@@ -21,7 +21,7 @@ I'm a PhD student applying algorithms, statistics and machine learning to advanc
 
 - [**Accent and melody in Aristophanes**](https://github.com/Urdatorn/aristophanis-cantica)  
 
-- [**High-quality new OCR of Linder & Walberg,_Svenskt-grekiskt lexikon_**](https://github.com/Urdatorn/grc-utils)
+- [**High-quality new OCR of Linder & Walberg,_Svenskt-grekiskt lexikon_**](https://github.com/Urdatorn/linder-walberg)
 
 ---
 
