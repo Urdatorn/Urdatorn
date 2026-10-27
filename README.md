@@ -4,7 +4,7 @@
 >- J.G. Ballard, *Vermillion Sands*
 
 >Λίθῳ διαλέγου.
->_You speak with a stone
+>You speak with a stone
 >- Anonymus paroemiographus, Ἐκλογὴ περὶ τῶν ἀδυνάτων (_Treatise on impossible things_)
 
 ---
