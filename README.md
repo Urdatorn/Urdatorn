@@ -1,10 +1,11 @@
 # Zukunftsphilologie
 
->”They’re not poets but mere mechanics. Look at these collections of so-called verse. Three poems and sixty pages of operating instructions.”
+>They’re not poets but mere mechanics. Look at these collections of so-called verse. Three poems and sixty pages of operating instructions.
 >- J.G. Ballard, *Vermillion Sands*
 
->Λίθῳ διαλέγου. ("To speak with a stone")
->- Ἐκλογὴ περὶ τῶν ἀδυνάτων (_Treatise on impossible things_)
+>Λίθῳ διαλέγου.
+>_You speak with a stone
+>- Anonymus paroemiographus, Ἐκλογὴ περὶ τῶν ἀδυνάτων (_Treatise on impossible things_)
 
 ---
 
@@ -20,7 +21,7 @@ I'm a PhD student applying algorithms, statistics and machine learning to advanc
 
 - [**Accent and melody in Aristophanes**](https://github.com/Urdatorn/aristophanis-cantica)  
 
-- [**Text-processing tools for Ancient Greek**](https://github.com/Urdatorn/grc-utils)
+- [**High-quality new OCR of Linder & Walberg,_Svenskt-grekiskt lexikon_**](https://github.com/Urdatorn/grc-utils)
 
 ---
 
